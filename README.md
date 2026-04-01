@@ -9,28 +9,28 @@ A powerful, customizable Flutter splash screen package that supports **smart nav
 <table>
   <tr>
     <td align="center">
-      <b>Simple Logo Splash</b><br><br>
-      <video src="https://raw.githubusercontent.com/manojprajapati1999/smart_splash_kit/main/assets/Simple_Logo.mp4" width="200" autoplay loop muted playsinline controls></video>
+      <b>Simple Logo</b><br><br>
+      <!-- Notice how we use <img> and .gif here! -->
+      <img src="https://raw.githubusercontent.com/manojprajapati1999/smart_splash_kit/main/assets/Simple_Logo.gif" width="150" alt="Simple Logo Splash" />
     </td>
     <td align="center">
-      <b>Animated Logo Splash</b><br><br>
-      <video src="https://raw.githubusercontent.com/manojprajapati1999/smart_splash_kit/main/assets/Animated_Logo.mp4" width="200" autoplay loop muted playsinline controls></video>
+      <b>Animated Logo</b><br><br>
+      <img src="https://raw.githubusercontent.com/manojprajapati1999/smart_splash_kit/main/assets/Animated_Logo.gif" width="150" alt="Animated Logo Splash" />
     </td>
     <td align="center">
       <b>Loader Splash</b><br><br>
-      <video src="https://raw.githubusercontent.com/manojprajapati1999/smart_splash_kit/main/assets/Loader_splash.mp4" width="200" autoplay loop muted playsinline controls></video>
+      <img src="https://raw.githubusercontent.com/manojprajapati1999/smart_splash_kit/main/assets/Loader_splash.gif" width="150" alt="Loader Splash" />
     </td>
     <td align="center">
       <b>Branding Splash</b><br><br>
-      <video src="https://raw.githubusercontent.com/manojprajapati1999/smart_splash_kit/main/assets/Branding_Splash.mp4" width="200" autoplay loop muted playsinline controls></video>
+      <img src="https://raw.githubusercontent.com/manojprajapati1999/smart_splash_kit/main/assets/Branding_Splash.gif" width="150" alt="Branding Splash" />
     </td>
     <td align="center">
-      <b>Config Based Splash</b><br><br>
-      <video src="https://raw.githubusercontent.com/manojprajapati1999/smart_splash_kit/main/assets/Config_Based_Splash.mp4" width="200" autoplay loop muted playsinline controls></video>
+      <b>Config Based</b><br><br>
+      <img src="https://raw.githubusercontent.com/manojprajapati1999/smart_splash_kit/main/assets/Config_Based_Splash.gif" width="150" alt="Config Based Splash" />
     </td>
   </tr>
 </table>
-
 
 ## ✨ Features
 
