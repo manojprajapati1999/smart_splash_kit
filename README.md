@@ -1,0 +1,1 @@
+# smart_splash_kit
