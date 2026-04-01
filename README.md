@@ -4,6 +4,34 @@ A powerful, customizable Flutter splash screen package that supports **smart nav
 
 ---
 
+## 🖼 Showcase
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Simple Logo Splash</b><br><br>
+      <video src="https://github.com/manojprajapati1999/smart_splash_kit/blob/main/assets/Simple_Logo.mp4" width="200" />
+    </td>
+    <td align="center">
+      <b>Animated Logo Splash</b><br><br>
+      <video src="https://github.com/manojprajapati1999/smart_splash_kit/raw/main/assets/Animated_Logo.mp4" width="200" />
+    </td>
+    <td align="center">
+      <b>Loader Splash</b><br><br>
+      <video src="https://github.com/manojprajapati1999/smart_splash_kit/raw/main/assets/Loader_splash.mp4" width="200" />
+    </td>
+    <td align="center">
+      <b>Branding Splash</b><br><br>
+      <video src="https://github.com/manojprajapati1999/smart_splash_kit/raw/main/assets/Branding_Splash.mp4" width="200" />
+    </td>
+    <td align="center">
+      <b>Config Based Splash</b><br><br>
+      <video src="https://github.com/manojprajapati1999/smart_splash_kit/raw/main/assets/Config_Based_Splash.mp4" width="200" />
+    </td>
+  </tr>
+</table>
+
+
 ## ✨ Features
 
 | Feature | Details |
