@@ -1,0 +1,40 @@
+name: smart_splash_kit
+description: A powerful, customizable Flutter splash screen package with smart routing, beautiful animations, API loading, theme support, and seamless native-to-Flutter transitions.
+version: 1.0.0
+homepage: https://github.com/manojprajapati1999/smart_splash_kit
+repository: https://github.com/manojprajapati1999/smart_splash_kit
+issue_tracker: https://github.com/manojprajapati1999/smart_splash_kit/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+  plugin_platform_interface: ^2.1.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.me.smart_splash_kit
+        pluginClass: SmartSplashKitPlugin
+      ios:
+        pluginClass: SmartSplashKitPlugin
+      web:
+        fileName: smart_splash_kit_web.dart
+        pluginClass: SmartSplashKitWeb
+      macos:
+        pluginClass: SmartSplashKitPlugin
+      windows:
+        pluginClass: SmartSplashKitPlugin
+      linux:
+        pluginClass: SmartSplashKitPlugin
